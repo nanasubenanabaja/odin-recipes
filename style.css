@@ -1,0 +1,22 @@
+* {
+    font-family: "Trebuchet MS", sans-serif;
+}   
+
+h1 {
+    text-align: center;
+    font-family: "Brush Script MT", cursive;
+    color: #99ff33;
+}
+
+.pic {
+    height: auto;
+    width: 600px;
+}
+
+p {
+    text-align: justify;
+}
+
+a {
+    color: #33cccc;
+}
